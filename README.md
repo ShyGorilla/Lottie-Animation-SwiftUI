@@ -1,5 +1,5 @@
 <h1 align="center">
-INSTAGRAM GUI BRUTTER
+Lottie Animation SwiftUI
 </h1>
 
 <p align="center">
