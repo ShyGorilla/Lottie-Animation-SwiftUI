@@ -22,6 +22,12 @@ Lottie Animation SwiftUI
     <a href="https://github.com/ShyGorilla/Lottie-Animation-SwiftUI/issues">Request Feature</a>
   </p>
 
+## Coding languages 💻
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+## ScreenShots
+
 <p align="center">
 <img src='https://user-images.githubusercontent.com/73632576/129563914-df312333-fd18-4fa7-ad90-85411eda43ca.gif'/>
 </p>
