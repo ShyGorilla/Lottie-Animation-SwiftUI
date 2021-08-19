@@ -28,7 +28,7 @@ Lottie Animation SwiftUI
 
 ## ScreenShots
 
-<p align="center">
+<p>
 <img src='https://user-images.githubusercontent.com/73632576/129563914-df312333-fd18-4fa7-ad90-85411eda43ca.gif'/>
 </p>
 
